@@ -1,0 +1,19 @@
+{
+  "name": "insomnia-plugin-relative-time",
+  "description": "Generate relative time from now inside the Insomnia REST client",
+  "version": "1.0.0",
+  "main": "main.js",
+  "insomnia": {
+    "name": "relativeTime",
+    "description": "Generate relative time from now"
+  },
+  "repository": "https://github.com/lnkyan/insomnia-plugin-relative-time",
+  "dependencies": [],
+  "devDependencies": [],
+  "keywords": [
+    "insomnia",
+    "plugin",
+    "time",
+    "generator"
+  ]
+}
